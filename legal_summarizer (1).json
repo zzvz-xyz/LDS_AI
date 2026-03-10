@@ -965,29 +965,7 @@
     "colab": {
       "provenance": []
     },
-    "widgets": {
-      "application/vnd.jupyter.widget-state+json": {
-        "ceef8ade6c8449ab93563102aa59def9": {
-          "model_module": "@jupyter-widgets/controls",
-          "model_name": "HBoxModel",
-          "model_module_version": "1.5.0",
-          "state": {
-            "_dom_classes": [],
-            "_model_module": "@jupyter-widgets/controls",
-            "_model_module_version": "1.5.0",
-            "_model_name": "HBoxModel",
-            "_view_count": null,
-            "_view_module": "@jupyter-widgets/controls",
-            "_view_module_version": "1.5.0",
-            "_view_name": "HBoxView",
-            "box_style": "",
-            "children": [
-              "IPY_MODEL_9bde00632c5e44089f8cbd60cc8e42d8",
-              "IPY_MODEL_a1ae63eec1894976bcfb699656e47bb2",
-              "IPY_MODEL_868b8b97b14049128d4c1ac37619bd82"
-            ],
-            "layout": "IPY_MODEL_d82fcbf9a07b400aba42b9d53726c261"
-          }
+    
         },
         "9bde00632c5e44089f8cbd60cc8e42d8": {
           "model_module": "@jupyter-widgets/controls",
